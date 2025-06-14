@@ -22,3 +22,4 @@ Ensure data quality before loading into downstream systems
 
 Minimize manual intervention in data preprocessing
 
+![image alt](https://github.com/siddhhartha/Automatic_Validation_Data_Engineering_Project/blob/9c6ee7fcb55f3b41c85c971d3979d6080897f223/Screenshot%202025-06-15%20002556.png)
